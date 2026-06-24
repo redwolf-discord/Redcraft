@@ -36,3 +36,6 @@ The server will now auto-restart every 24hr to be sure the server can backup it'
 
 - Bug fixing: 
 The team is actively fixing bugs when found or reported. Anyone who submits a bug report and it's valid will be reported with a item that's limited time. 
+
+- Forge Gamemode
+  There is a gamemode that's survival with mods such as Create & Guns. More information will be shared when the gamemode is officially launched out.
