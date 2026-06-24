@@ -33,3 +33,6 @@ Players & Members can now vote on polls that get hosted either via in-game or on
 
 - Automatic restarting:
 The server will now auto-restart every 24hr to be sure the server can backup it's files and maintain stability while running. A pior warning will be displayed before the server get's automatically restarted.
+
+- Bug fixing: 
+The team is actively fixing bugs when found or reported. Anyone who submits a bug report and it's valid will be reported with a item that's limited time. 
