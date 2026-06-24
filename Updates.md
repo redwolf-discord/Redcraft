@@ -26,3 +26,6 @@ There are now roles that can be obtained such as "Tester" & "Judge" if you repor
 
 - Moderator:
 You can now apply for a position as a moderator, get admin powers and watch over the players.
+
+- Community polls: 
+Players & Members can now vote on polls that get hosted either via in-game or on the discord, share your opinion and vote whenever a poll comes out!
