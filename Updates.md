@@ -20,3 +20,9 @@ There is now seasons to Redcraft and every month the world will be changed with 
 
 - Playercount upgrade:
 More players are allowed on the server at once due to the new server change from a single world to now sperate servers.
+
+- Roles:
+There are now roles that can be obtained such as "Tester" & "Judge" if you report bugs & more. 
+
+- Moderator:
+You can now apply for a position as a moderator, get admin powers and watch over the players.
