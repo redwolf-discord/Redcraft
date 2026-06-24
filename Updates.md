@@ -1,19 +1,19 @@
 # UPDATE 1.1
 
-Chests & Hoppers etc.
+- Chests & Hoppers etc.
 Can be moved now with pistons
 
-Shop Changed
+- Shop Changed
 New UI & Item change including prices.
 
-Server Reset 
+- Server Reset 
 There is now seasons to Redcraft and every month the world will be changed with pior warning.
 
- Velocity Proxy
+ - Velocity Proxy
  Redcraft has now sperated from a single one world server to now seperate servers on a velocity proxy, this allows for better performance and plugins to be seperated and data. 
 
- MOTD
+ - MOTD
  The motd has changed to a new look and style.
 
- Logo
+ - Logo
  The logo has been changed to a newer design and a nicer look including a brand-new banner that's avaliable to be viewed in the discord server.
