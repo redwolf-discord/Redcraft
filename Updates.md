@@ -29,3 +29,6 @@ You can now apply for a position as a moderator, get admin powers and watch over
 
 - Community polls: 
 Players & Members can now vote on polls that get hosted either via in-game or on the discord, share your opinion and vote whenever a poll comes out!
+
+- Automatic restarting:
+The server will now auto-restart every 24hr to be sure the server can backup it's files and maintain stability while running. A pior warning will be displayed before the server get's automatically restarted.
