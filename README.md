@@ -26,6 +26,8 @@ Be aware we can IP-BAN And Ban Accounts from our server if our TOS is broken, We
 
 I am fully paying for the server without you guys needing to buy anything, I'm loosing money but to let you guys have fun I'd rather risk it then make you guys pay or not have fun, I'm paying for a proxy internet and not a custom domain so it will include ".play.mcservermamager.com" but this is the server I'm hosting and is not even 1 Month old, I'm planning to add game modes and some payment incase anyone wants to donate, I will add loads and loads of new stuff every time I can.
 
+It's recommend to not download the .md files. Please download only the files that you are requested or required to install to play or play a gamemode.
+
 
 SERVER DETAILS
 
