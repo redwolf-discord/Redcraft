@@ -29,7 +29,7 @@ These rules apply to both the **Discord server** and the **Minecraft server**.
 • Starting drama, baiting arguments, or causing problems will not be tolerated.
 
 ━━━━━━━━━━━━━━━━━━
- **Minecraft Rules**
+ **Minecraft Rules / Survival**
 ━━━━━━━━━━━━━━━━━━
 
 **7. PvP is Allowed**
